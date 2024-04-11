@@ -1,6 +1,6 @@
-![Image](https://graph.org/file/9901c2070cea11d1aa194.jpg)
+![Image](https://telegra.ph/file/f2750be308765b83b3937.jpg)
 
-## WAIFU & HUSBANDO CATCHER 
+## 𝘈𝘯𝘪𝘮𝘦𝘏𝘞™ 
 
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)<br> [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br>
@@ -11,27 +11,27 @@ _**Available On Telegram As
 [Collect Em all](https://t.me/Collect_em_AllBot) and**_
 _Ask for Help in our [Support Chat](https://t.me/Collect_em_support)_
 
-## About The Repository
-● This is an Open Source Implementation of Character Catcher Bot for Telegram
-- For Example, Grab/Hunt/Protecc/Collect etc.. These Types of Bot You must have seen it on your telegram groups..
-- This bot sends characters in group after every 100 Messages Of Groups Then any user can Guess that character's Name Using /guess Command.
+## 𝘚𝘰𝘣𝘳𝘦 𝘰 𝘙𝘦𝘱𝘰𝘴𝘪𝘵ó𝘳𝘪𝘰
+● Esta é uma implementação de código aberto do AnimeHW™ para Telegram
+- Por exemplo, Grab/Hunt/Protecc/Collect etc.. Esses tipos de bot Você deve ter visto em seus grupos de telegramas..
+- Este bot envia caracteres em grupo a cada 100 mensagens de grupos. Então qualquer usuário pode adivinhar o nome desse personagem usando o comando /guess.
 
-- Now you can also deploy this type of bot. Using our source, we've used Python-Telegram-Bot V20.6 and Also lil bit Pyrogram. Enjoy!
+- Agora você também pode implantar esse tipo de bot. Usando nossa fonte, usamos Python-Telegram-Bot V20.6 e também lil bit Pyrogram. Aproveitar!
 
-## HOW TO UPLOAD CHARACTERS?
+## 𝘊𝘖𝘔𝘖 𝘊𝘈𝘙𝘙𝘌𝘎𝘈𝘙 𝘗𝘌𝘙𝘚𝘖𝘕𝘈𝘎𝘌𝘕𝘚?
 
-Format: 
+Formatar:
 ```
-/upload img_url character-name anime-name rarity-number
+/upload img_url nome do personagem nome do anime número de raridade
 ```
-#### Example: 
+#### Exemplo:
 ```
-/upload Img_url muzan-kibutsuji Demon-slayer 3
+/upload Img_url muzan-kibutsuji Matador de Demônios 3
 ```
 
 
 
-use Rarity Number accordingly rarity Map
+use o número de raridade de acordo com o mapa de raridade
 
 | Number | Rarity     |
 | ------ | -----------|
@@ -41,38 +41,38 @@ use Rarity Number accordingly rarity Map
 | 4 | 🟢 Medium   |
 
 
-## USER COMMANDS
-- `/guess` - Guess the character
-- `/fav` - Add a character to favorites
-- `/trade` - Trade a character with another user
-- `/gift` - Gift a character to another user
-- `/collection` - Boast your harem collection
-- `/topgroups` - List the groups with biggest harem (globally)
-- `/top` - List the users with biggest harem (globally)
-- `/ctop` - List the users with biggest harem (current chat)
-- `/changetime` - Change the frequency of character spawn
+## COMANDOS DO USUÁRIO
+- `/guess` - Adivinhe o personagem
+- `/fav` - Adicione um personagem aos favoritos
+- `/trade` - Troca um personagem com outro usuário
+- `/gift` - Presenteie um personagem para outro usuário
+- `/collection` - Ostente sua coleção de harém
+- `/topgroups` - Lista os grupos com maior harém (globalmente)
+- `/top` - Lista os usuários com maior harém (globalmente)
+- `/ctop` - Lista os usuários com maior harém (chat atual)
+- `/changetime` - Altera a frequência de geração de personagens
   
-## SUDO USER COMMANDS..
-- `/upload` - Add a new character to the database 
-- `/delete` - Delete a character from the database 
-- `/update` - Update stats of a character in the database 
+## COMANDOS DO USUÁRIO SUDO..
+- `/upload` - Adiciona um novo caracter ao banco de dados
+- `/delete` - Exclui um caractere do banco de dados
+- `/update` - Atualizar estatísticas de um personagem no banco de dados 
 
-## OWNER COMMANDS
-- `/ping` - Pings the bot and sends a response
-- `/stats` - Lists number or groups and users
-- `/list` - Sends a document with list of all users that used the bot
-- `/groups` - Sends a document with list of all groups that the bot has been in
+## COMANDOS DO PROPRIETÁRIO
+- `/ping` - Faz ping no bot e envia uma resposta
+- `/stats` - Lista números ou grupos e usuários
+- `/list` - Envia um documento com a lista de todos os usuários que usaram o bot
+- `/groups` - Envia um documento com a lista de todos os grupos em que o bot esteve
 
-## DEPLOYMENT METHODS
+## MÉTODOS DE IMPLEMENTAÇÃO
 
 ### Heroku
-- Fork The Repository
-- Go to [`config.py`](./shivu/config.py)
-- Fill the All variables and Go to heroku. and deploy Your forked Repository
+- Fork o repositório
+- Vá para [`config.py`](./shivu/config.py)
+- Preencha todas as variáveis ​​e vá para heroku. e implante seu repositório bifurcado
 
-### Local Deploy/VPS
-- Fill variables in [`config.py`](./shivu/config.py) 
-- Open your VPS terminal (we're using Debian based) and run the following:
+### Implantação local/VPS
+- Preencha variáveis ​​em [`config.py`](./shivu/config.py)
+- Abra seu terminal VPS (estamos usando Debian) e execute o seguinte:
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y           
 
@@ -87,12 +87,12 @@ sudo apt install tmux && tmux
 python3 -m shivu
 ```       
  
-## License
-The Source is licensed under MIT, and hence comes with no Warranty whatsoever.
+## Licença
+A fonte é licenciada pelo MIT e, portanto, não possui nenhuma garantia.
 
-## Appreciation
-If you appreciate this Code, make sure to star ✨ the repository.
+## Apreciação
+Se você aprecia este Código, marque com estrela ✨ o repositório.
 
-## Developer Suggestions 
-- Don't Use heroku. Deploy on Heroku is just for testing. Otherwise Bot's Inline will Work Too Slow.
-- Use a reliable VPS provider
+## Sugestões do desenvolvedor
+- Não use heroku. Implantar no Heroku é apenas para teste. Caso contrário, o Inline do Bot funcionará muito devagar.
+- Use um provedor VPS confiável
