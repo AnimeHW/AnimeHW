@@ -3,13 +3,13 @@
 ## 𝘈𝘯𝘪𝘮𝘦𝘏𝘞™ 
 
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)<br> [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br>
-[![Support Group!](https://img.shields.io/badge/Join%20Group-↗-green)](https://t.me/collect_em_support)
+[![ADM Suporte](https://img.shields.io/badge/ADM-Suporte-blue.svg?style=flat-square)](https://t.me/Bielzin_nx)<br>  [![Grupo Oficial](https://img.shields.io/badge/Grupo-Oficial-blue.svg?style=flat-square)](https://t.me/Animesbetsbando)<br>
+[![Shadizinho Criador!](https://img.shields.io/badge/Shadizinho%20Criador-↗-blue)](https://t.me/Shadizinho)
 
 
-_**Available On Telegram As 
-[Collect Em all](https://t.me/Collect_em_AllBot) and**_
-_Ask for Help in our [Support Chat](https://t.me/Collect_em_support)_
+_**Disponível no Telegram como 
+[𝘈𝘯𝘪𝘮𝘦𝘏𝘞™](https://t.me/AnimeHW_bot) e**_
+_Peça ajuda em nosso [Grupo Oficial](https://t.me/Animesbetsbando)_
 
 ## 𝘚𝘰𝘣𝘳𝘦 𝘰 𝘙𝘦𝘱𝘰𝘴𝘪𝘵ó𝘳𝘪𝘰
 ● Esta é uma implementação de código aberto do AnimeHW™ para Telegram
@@ -40,6 +40,7 @@ use o número de raridade de acordo com o mapa de raridade
 | 3 | 🟡 Legendary|
 | 4 | 🟢 Medium   |
 
+![Image](https://telegra.ph/file/9fcd8de2b174cec5f70d1.jpg)
 
 ## COMANDOS DO USUÁRIO
 - `/guess` - Adivinhe o personagem
