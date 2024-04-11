@@ -7,7 +7,7 @@ class Config(object):
     GROUP_ID = -1002079755812
     TOKEN = "6782667556:AAGImAWRJbss9BXEpALCjisaxYVMC7sKUt0"
     mongo_url = "mongodb+srv://Shadizinho:Ggae4304,,@animehw.kdajkvp.mongodb.net/"
-    PHOTO_URL = ["https://telegra.ph/file/9bfd5dfc5633040cd8b8f.jpg", "https://telegra.ph/file/f2750be308765b83b3937.jpg"]
+    PHOTO_URL = ["https://telegra.ph/file/e799d64db218df244d187.jpg", "https://telegra.ph/file/9bfd5dfc5633040cd8b8f.jpg"]
     SUPPORT_CHAT = "AnimeHW_sup"
     UPDATE_CHAT = "AnimeHW_sup"
     BOT_USERNAME = "AnimeHW_bot"
