@@ -80,7 +80,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install python3-pip -y          
 sudo pip3 install -U pip
 
-git clone https://github.com/<YourUsername>/WAIFU-HUSBANDO-CATCHER && cd WAIFU-HUSBANDO-CATCHER
+git clone https://github.com/<nomedeusuario>/WAIFU-HUSBANDO-CATCHER && cd WAIFU-HUSBANDO-CATCHER
 
 pip3 install -U -r requirements.txt          
 
