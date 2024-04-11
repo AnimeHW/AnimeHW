@@ -1,4 +1,4 @@
-![Image](https://telegra.ph/file/f2750be308765b83b3937.jpg)
+![Image](https://telegra.ph/file/631a7065550ff1fc949b5.jpg)
 
 ## 𝘈𝘯𝘪𝘮𝘦𝘏𝘞™ 
 
