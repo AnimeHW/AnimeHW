@@ -3,7 +3,7 @@ class Config(object):
 
     # Get this value from my.telegram.org/apps
     OWNER_ID = "6710268098"
-    sudo_users = "7080925947", "6959003848"
+    sudo_users = "7080925947 6959003848"
     GROUP_ID = -1002079755812
     TOKEN = "6782667556:AAGImAWRJbss9BXEpALCjisaxYVMC7sKUt0"
     mongo_url = "mongodb+srv://Shadizinho:Ggae4304,,@animehw.kdajkvp.mongodb.net/"
